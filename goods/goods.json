@@ -1,0 +1,56 @@
+[
+   {
+      "model":"goods.Goods",
+      "fields":{
+         "goods_name":"T-shirt",
+         "goods_price": 30.99,
+         "ship_from": "US",
+         "weight": 0.2
+      }
+   },
+   {
+      "model":"goods.Goods",
+      "fields":{
+         "goods_name":"Blouse",
+         "goods_price": 10.99,
+         "ship_from": "UK",
+         "weight": 0.3
+      }
+   },
+   {
+      "model":"goods.Goods",
+      "fields":{
+         "goods_name":"Pants",
+         "goods_price": 64.99,
+         "ship_from": "UK",
+         "weight": 0.9
+      }
+   },
+   {
+      "model":"goods.Goods",
+      "fields":{
+         "goods_name":"Sweatpants",
+         "goods_price": 84.99,
+         "ship_from": "CN",
+         "weight": 1.1
+      }
+   },
+   {
+      "model":"goods.Goods",
+      "fields":{
+         "goods_name":"Jacket",
+         "goods_price": 199.99,
+         "ship_from": "US",
+         "weight": 2.2
+      }
+   },
+   {
+      "model":"goods.Goods",
+      "fields":{
+         "goods_name":"Shoes",
+         "goods_price": 79.99,
+         "ship_from": "CN",
+         "weight": 1.3
+      }
+   }
+]

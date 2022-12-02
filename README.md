@@ -1,6 +1,7 @@
 # b2c_project
 ## Showdoc:
     [url](https://www.showdoc.com.cn/2142669133683109/9625769946425766)
+    <a href="http://www.baidu.com">百度</a>
     pwd: 123
 
 ## Env setup:

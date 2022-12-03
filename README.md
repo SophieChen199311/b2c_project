@@ -82,3 +82,10 @@ put it to redis
     ├── constants.py
     └── exceptions.py
 ```
+## Further explanation about some important folders of the project
+* main apps
+  * goods
+  * carts
+* utils
+  * exceptions.py contains self-defined exceptions generic
+  * constants.py contains constants we would use in the project  e.g.SHIPPING_RATE = {"US":2, "UK":3, "CN": 2}

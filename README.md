@@ -5,7 +5,7 @@
 * pwd: 123
 
 ## Env setup:
-* conda env create -f environment.yaml
+* conda env create -f environment.yaml -n envname
 * mysql:
   * create a database to store the goods data
   * edit the mysql info in settings.py
